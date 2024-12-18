@@ -13,6 +13,7 @@ public class CoffeeMachineMain
         products.add(new Product(50, "вода"));
 		//новая строчка
 		//вторая новая строчка
+		//new string add
 
         checkPrices(moneyAmount, products);
     }
