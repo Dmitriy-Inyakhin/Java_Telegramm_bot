@@ -12,6 +12,7 @@ public class CoffeeMachineMain
         products.add(new Product(100, "эспрессо"));
         products.add(new Product(50, "вода"));
 		//новая строчка
+		//вторая новая строчка
 
         checkPrices(moneyAmount, products);
     }
